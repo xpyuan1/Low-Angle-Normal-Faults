@@ -1,5 +1,5 @@
 # Low-Angle-Normal-Faults
-The codes are used to reproduce Figure 2 and Figure 5 in "Yuan X.P., Olive J.-A., Braun J., Partially-locked low-angle normal faults in cohesive upper crust, Tectonics, 2020."
+The codes are used to reproduce Figure 2 and Figure 5 in "Yuan X.P., Olive J.-A., Braun J., Partially-locked low-angle normal faults in cohesive upper crust, Tectonics, 2020". More details on the parameters can be found in the Supplementary Information of Yuan et al. (2020, Tectonics).
 
 To construct plots of critical dip as a function of LANF friction (Figure 2), one must run the code with input file BetaMuF.in 
 
@@ -15,5 +15,3 @@ The following commands compile and run the code:
 gfortran -O CFMuF.f -o CFMuF 
 
 ./CFMuF<CFMuF.in 
-
-More details on the parameters can be found in the Supplementary Information of Yuan et al. (2020, Tectonics).
