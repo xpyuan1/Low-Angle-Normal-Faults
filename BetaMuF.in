@@ -1,0 +1,5 @@
+0.1    0.04    30.0             (cb,cf,phib) 
+0.0    30.0   100              (betamin,betamax,nbeta) 
+0.0    30.0   100              (phifmin,phifmax,nphif) 
+0.37    0.0   0.0              (rhof,dlambB,dlambf)
+200    200                     (nz,ntheta)
